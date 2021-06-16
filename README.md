@@ -7,5 +7,5 @@
   <img align="left" alt="Jack's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg">
 </a>
   
-<p>I'm an aspiring full-stack web developer, but I'm still learning! There will be more to see here later.</p>
+<p>I'm an aspiring data scientist, but I'm still learning! There will be more to see here later.</p>
 
