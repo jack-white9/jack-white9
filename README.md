@@ -9,4 +9,6 @@ On this page, expect to see:
   <li>Miscellaneous Python or web development projects</li>
 </ul>
 
+<!---
 [![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jack-white9)](https://github.com/jack-white9/github-readme-stats)
+---!>
