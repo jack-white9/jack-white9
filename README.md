@@ -1,5 +1,4 @@
-### Hi there 👋 
-
+<a href="https://www.canva.com/design/DAEkOeGioBU/view" alt="Jack White"></a>
 
 [![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jack-white9)](https://github.com/jack-white9/github-readme-stats)
 
