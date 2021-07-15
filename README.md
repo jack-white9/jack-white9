@@ -13,6 +13,10 @@ On this page, expect to see:
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Banner">
 </a>
 
+<a href="https://www.kaggle.com/jackwhite01">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Banner">
+</a>
+
 <!---
 [![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jack-white9)](https://github.com/jack-white9/github-readme-stats)
 ---!>
