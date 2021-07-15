@@ -9,11 +9,11 @@ On this page, expect to see:
   <li>Miscellaneous Python or web development projects</li>
 </ul>
 
-<a href="https://www.linkedin.com/in/jack-white-2001/" target="blank">
+<a href="https://www.linkedin.com/in/jack-white-2001/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Banner">
 </a>
 
-<a href="https://www.kaggle.com/jackwhite01" target="blank">
+<a href="https://www.kaggle.com/jackwhite01" target="_blank">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Banner">
 </a>
 
