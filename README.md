@@ -9,6 +9,10 @@ On this page, expect to see:
   <li>Miscellaneous Python or web development projects</li>
 </ul>
 
+<a href="https://www.linkedin.com/in/jack-white-2001/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Banner">
+</a>
+
 <!---
 [![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jack-white9)](https://github.com/jack-white9/github-readme-stats)
 ---!>
