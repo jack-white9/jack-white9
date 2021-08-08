@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/1kHrKwf.png" alt="Jack White Banner">
 
-I'm Jack, a computer science undergraduate and an aspiring web developer in the process of learning all about the front-end.  
+I'm Jack, a computer science undergraduate and a web developer passionate about front-end design.  
 
 **Languages and Tools:**  
 
