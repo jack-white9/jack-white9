@@ -1,10 +1,10 @@
-<br/>
-<div align="center">
-  <a href="https://www.linkedin.com/in/jack-white-2001/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Banner">
-  </a>
 
-Hey! I'm Jack. I'm a frontend software engineer with a passion for building beautiful and responsive web applications with great user experiences.
+  
+- 👋 Hey, I’m Jack, a frontend software engineer.
+- 👀 I have a passion for building beautiful and responsive web applications.
+- 🌱 View my website at https://jackwhite.tech/.
+- 💞️ I’m looking to collaborate on web development or other opportunities to gain more experience.
+- 📫 Reach out to me via email: https://linkedin.com/in/jack-f-white
   
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"
@@ -22,21 +22,4 @@ Hey! I'm Jack. I'm a frontend software engineer with a passion for building beau
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
     width="60px"
   />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <br />
-  <br />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=jack-white9&show_icons=true&theme=react&&hide_border=true"
-  />
-  <br />
-  <br />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=jack-white9&&theme=react&&hide_border=true"
-  />
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jack-white9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
-
-<!---
-[![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jack-white9)](https://github.com/jack-white9/github-readme-stats)
----!>
+ 
