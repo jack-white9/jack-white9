@@ -1,6 +1,6 @@
 
   
-- 👋 Hey, I’m Jack, a frontend software engineer.
+- 👋 Hey, I’m Jack, a software engineer.
 - 👀 I have a passion for building beautiful and responsive web applications.
 - 🌱 Come view my website at <a href="https://jackwhite.tech" target="_blank">https://jackwhite.tech</a>.
 - 📫 Feel free to reach out to me via LinkedIn: <a href="https://linkedin.com/in/jack-f-white" target="_blank">https://linkedin.com/in/jack-f-white</a>.
