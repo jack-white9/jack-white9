@@ -1,6 +1,6 @@
 
   
-- 👋 Hey, I’m Jack, and I'm a software engineer.
+- 👋 Hey, I’m Jack, and currently working as a software engineer at an EdTech company called Education Horizons.
 - 👀 I have a passion for building beautiful and responsive web applications.
 - 🌱 Come view my website at <a href="https://jackwhite.tech" target="_blank">https://jackwhite.tech</a>.
 - 📫 Feel free to reach out to me via LinkedIn: <a href="https://linkedin.com/in/jack-f-white" target="_blank">https://linkedin.com/in/jack-f-white</a>.
